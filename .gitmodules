@@ -5,7 +5,3 @@
 [submodule "optmatch"]
 	path = optmatch
 	url = https://github.com/markmfredrickson/optmatch
-[submodule "rrelaxiv"]
-	path = rrelaxiv
-	url = https://github.com/josherrickson/rrelaxiv
-	registered = false
